@@ -25,4 +25,4 @@ git config --global user.name "username"
 
 After this try git add . and git commit -m "update" again.
 4. git remote add origin "link"
-5. git push -u origin maingit
+5. git push -u origin main
