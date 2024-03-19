@@ -1,0 +1,5 @@
+first download and install git and verify it by "git -v"
+
+actual process:
+git init- it will intiate git into folder
+open terminal-->new terminal-->goto specific folder
