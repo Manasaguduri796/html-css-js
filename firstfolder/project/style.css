@@ -1,0 +1,19 @@
+
+
+body{
+    background-color: rgb(157, 145, 155);
+    background: linear-gradient(#790929);
+    background-repeat: no-repeat;
+}
+#main{
+    text-align: center;
+    font-style: italic;
+}
+#img{
+    margin-left: 900px;
+    height: 100%;
+    width: 100%;
+    border-radius: 100px;
+    
+}
+

@@ -1,0 +1,4 @@
+all semantic elements are block elementseg. header ,footer, main,address,section, article etc
+attributes: every elements will have some properties . those are called attributes 
+eg. src,alt,for,img element , href, target for a element 
+every element  cantain  common attribute like 
